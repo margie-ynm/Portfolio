@@ -1,3 +1,17 @@
 img {
   width: 300px;
+  float:left;
+  margin-right: 30px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.sidebar {
+  float:right;
+  width:425px;
+  background-color:#F2F288;
+  padding: 2%;
+  height: 415px;
+  border-radius: 10%;
+  border: 5px solid black;
 }
