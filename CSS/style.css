@@ -29,3 +29,7 @@ a:hover {
   font-weight: bold;
   color: green;
 }
+
+.jumbotron {
+  background-color: lightyellow;
+}
