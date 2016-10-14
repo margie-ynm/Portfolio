@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is the site's homepage. It entails an about me section, an image, and as well as a list of projects I have created. Each project heading contains a link for it. description of your application. Its purpose and usage._
+_This is the site's homepage. It entails an about me section, an image representative of me, and as well as a list of projects I have created. Each project heading contains a link for it._
 
 ## Setup/Installation Requirements
 
